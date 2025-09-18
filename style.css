@@ -3,11 +3,20 @@ body {
   font-weight: 500;
 }
 
-a {
-  color: orange;
+#change h1 {
+  font-size: 50px;
+  color: red;
 }
 
-a:hover {
-  color: black;
+#change button {
+  margin-top: 50px;
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+#change button:hover {
+  background-color: blue;
+  color: #ffff;
 }
 /*# sourceMappingURL=style.css.map */
